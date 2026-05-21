@@ -131,7 +131,8 @@ deleted, and a tilde means it will be updated in place. Today the plan
 showed 2 to add, 0 to change, 0 to destroy, which matched exactly what
 was deployed.
 
-Here is the published post: https://dev.to/mj16/deploying-your-first-server-with-terraform-a-beginners-guide-52da
+Published post: https://dev.to/mj16/deploying-your-first-server-with-terraform-a-beginners-guide-52da
+
 ---
 
 ## Challenges and Fixes
